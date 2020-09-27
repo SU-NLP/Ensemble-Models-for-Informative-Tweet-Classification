@@ -1,0 +1,1 @@
+{"data_dir": "COVID19Tweet/", "num_words": 5000, "max_seq_len": 50, "pretrained_embeds_file": "glove.twitter.27B.200d.txt", "filter_widths": [2, 3, 4, 5], "number_of_filters": 300, "dropout_prob": 0.2, "optimizer": "Adam", "n_classes": 2, "hidden_activation": "relu", "BATCH_SIZE": 16, "max_epochs": 20,"trained_model_dir": "model_dir/"}
